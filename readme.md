@@ -27,7 +27,8 @@ and run:
 
 `python .\manage.py runserver`
 
-This starts our web server
+This starts our web server.
+
 Open http://localhost:8000 to view it in the browser.
 
 In order to view the server in development mode, open a new terminal and move into the frontend directory and run:
