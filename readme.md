@@ -1,7 +1,7 @@
 # Music Room
 <p align="center"><img src="https://user-images.githubusercontent.com/84025779/216824024-d405b765-adaa-4f15-83ef-47b83fc923eb.png"></p>
 
-###This project  allows users to create a music room and invite listeners to join in and listen to music together.
+### This project  allows users to create a music room and invite listeners to join in and listen to music together.
 It was made together with the help of [ReactJS](https://reactjs.org/) and [Django](https://docs.djangoproject.com/en/4.1/) using [Material UI](https://mui.com/material-ui/getting-started/overview/) templates.
 Host has the power to select *which song to play, how many members* to allow inside a room and will need to authenticate their Spotify account with the application to continue.
 Listeners will have the liberty to *join a room* through a given valid room code and can together *vote\not vote to skip, play/pause* the particular playing song.
